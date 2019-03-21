@@ -118,5 +118,7 @@ DOWNLOADER_MIDDLEWARES = {
 ### How to use
 ```
 pip install requirements.txt
+
+python start.py
 ```
 
